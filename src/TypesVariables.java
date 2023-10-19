@@ -2,7 +2,7 @@ public class TypesVariables {
     public static void main(String[] args) {
        /*  double miniumWage = 2500; /* 2.500 is wrong! */
 
-        short shortNumber = 1;
+/*         short shortNumber = 1;
         int normalNumber = shortNumber;
         short shortNumber2 = (short) normalNumber;
 
@@ -13,6 +13,8 @@ public class TypesVariables {
         System.out.print(number);
 
         final double PiValue = 3.14;
-
+        
+        Commented cause it was causing annoying bugs pop-ups.
+ */
     }
 }
